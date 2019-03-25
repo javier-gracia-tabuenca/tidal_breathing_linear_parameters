@@ -37,5 +37,9 @@ Repo includes :
 - respiratory_cycle.mat :file with data to test the main function 
 - test.mlx : file with an example running main fuction with data in respiratory_cycle.mat
 
+# Example : 
+
+![alt text](img/example.png "Logo Title Text 1")
+
 
 Author: javier.gracia.tabuenca   Date: 12.12.2018
